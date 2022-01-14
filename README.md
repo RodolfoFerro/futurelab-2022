@@ -4,7 +4,7 @@ Repo privado de la nueva organización de Future Lab. El repo centraliza el proc
 
 Por ahora enlistamos las siguientes actividades por realizar:
 
-- [ ] Formalizar el código de conducta de la comunidad
+- [ ] Formalizar el código de conducta de la comunidad -> Referencia a [https://github.com/futurelabmx/cc](https://github.com/futurelabmx/cc)
 - [ ] Crear un Discord base para albergar a la comunidad
    - [ ] Definir roles
    - [ ] Definir canales
